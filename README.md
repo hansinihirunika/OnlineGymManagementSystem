@@ -6,7 +6,7 @@ This assessment is to assess the skills and learning that acquired about object-
 
 Setup
 
-•	Clone (put the clone link here) 
+•	Clone (https://github.com/hansinihirunika/OnlineGymManagementSystem.git) 
 
 •	Open with InteliJ or on a suitable surface 
 
